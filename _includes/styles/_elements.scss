@@ -1,0 +1,5 @@
+$col: hotpink !default;
+
+body {
+  background: linear-gradient(to bottom, white, $col);
+}
